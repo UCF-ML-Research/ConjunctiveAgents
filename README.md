@@ -38,7 +38,7 @@ The attack operates **purely at the prompt level** without modifying:
 # System Overview
 
 <p align="center">
-<img src="figures/system_overview.png" width="700">
+<img src="overview.png" width="700">
 </p>
 
 The system simulates a multi-agent pipeline where:
