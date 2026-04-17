@@ -1,4 +1,4 @@
-# [ACL 2026: Main] Topology-Aware Conjunctive Prompt Attacks in Multi-Agent LLM Systems
+# [ACL 2026: Main] Conjunctive Prompt Attacks in Multi-Agent LLM Systems
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
