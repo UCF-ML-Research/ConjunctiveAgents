@@ -4,7 +4,7 @@
 
 Official implementation for the ACL paper:
 
-**Topology-Aware Conjunctive Prompt Attacks in Multi-Agent LLM Systems**  
+**Conjunctive Prompt Attacks in Multi-Agent LLM Systems**  
 Nokimul Hasan Arif, Qian Lou, Mengxin Zheng  
 University of Central Florida
 
