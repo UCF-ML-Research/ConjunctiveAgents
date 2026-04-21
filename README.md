@@ -1,5 +1,6 @@
 # [ACL 2026: Main] Conjunctive Prompt Attacks in Multi-Agent LLM Systems
 
+[![arXiv](https://img.shields.io/badge/arXiv-paper-b31b1b.svg)](https://arxiv.org/abs/2604.16543)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Official implementation for the ACL paper:
